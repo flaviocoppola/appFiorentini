@@ -27,7 +27,7 @@ const styles = StyleSheet.create({
     padding: 20,
     margin: 10,
     borderWidth: 0.5,
-    borderRadius: 20,
+    borderRadius: 15,
   },
   textCard: {
     padding: 20,
