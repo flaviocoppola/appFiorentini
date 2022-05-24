@@ -123,9 +123,9 @@ const Details = ({route, navigation}) => {
               </Text>
             </View>
             {stato === 'Sbloccato' ? (
-              <View style={styles.statusIndicatorSb} />
-            ) : (
               <View style={styles.statusIndicatorBl} />
+            ) : (
+              <View style={styles.statusIndicatorSb} />
             )}
           </View>
 
